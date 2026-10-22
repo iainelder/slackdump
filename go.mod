@@ -129,3 +129,5 @@ tool (
 	go.uber.org/mock/mockgen
 	golang.org/x/tools/cmd/stringer
 )
+
+replace github.com/rusq/chttp/v2 => github.com/iainelder/chttp/v2 v2.0.0-20261022142604-057aa64ed659
